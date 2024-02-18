@@ -1,4 +1,4 @@
-<h1>Hi, I'm Regina!  <a href="https://www.linkedin.com/in/securemydigitalworld/">Cybersecurity Professional</a>, </h1>
+![image](https://github.com/regbates/regbates/assets/125774706/9555c1a9-abf4-4b71-8691-2eead7ce4a35)
 
 <h2>👧🏿 Cybersecurity Projects:</h2>
 
