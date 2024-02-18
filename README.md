@@ -12,6 +12,10 @@
 - Cybersecurity Analytics
 
 
-![Regbates GitHub stats](https://github-readme-stats.vercel.app/api?username=regbates&show_icons=true&theme=radical)
+![Regbates GitHub stats](https://github-readme-stats.vercel.app/api?username=regbates&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=regbates&theme=dark)](https://git.io/streak-stats)
