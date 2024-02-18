@@ -2,35 +2,16 @@
 
 <h2>👧🏿 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/regbates/ActiveDirectorylab)
+- [Add Labs Here](https://github.com/regbates/addlabshere)
 
 <h2> 📄 Certifications</h2>
 
+- ISC2 Certification (March 2024)
 - CompTIA Security+ (Expected 07/24)
-- Cybersecurity Analytics
 - Cybersecurity Certificate
-- FEMA National Incident Management System (NIMS) ICS-100
+- Cybersecurity Analytics
 
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="regbates | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/securemydigitalworld
-
-<!--
-**regbates/regbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Regbates GitHub stats](https://github-readme-stats.vercel.app/api?username=regbates&show_icons=true&theme=radical)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=regbates&theme=dark)](https://git.io/streak-stats)
