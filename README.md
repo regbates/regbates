@@ -1,5 +1,7 @@
 ![image](https://github.com/regbates/regbates/assets/125774706/9555c1a9-abf4-4b71-8691-2eead7ce4a35)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=regbates&theme=onedark)](https://github.com/regbates/github-profile-trophy)
+
 <h2>👧🏿 Cybersecurity Projects:</h2>
 
 - [Add Labs Here](https://github.com/regbates/addlabshere)
@@ -18,4 +20,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=regbates&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=regbates&theme=onedark)](https://github.com/regbates/github-profile-trophy)
+
