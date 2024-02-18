@@ -16,6 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=regbates&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=regbates&theme=onedark)](https://github.com/regbates/github-profile-trophy)
